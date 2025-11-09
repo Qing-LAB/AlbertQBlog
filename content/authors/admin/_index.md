@@ -57,7 +57,8 @@ highlight_name: true
 website: ""
 ---
 
-My name is Kezhen Albert Qing. I am 8 years old now. I like to
+My name is **Kezhen Albert Qing**. I am 8 years old now. I like to
 read and I like to make things. I am particularly interested in
 military equipment and here is my journal of what I learn from
 reading and researching.
+This includes information about fast military planes,tanks,and military ships.
