@@ -24,7 +24,7 @@ tags:
 You might be asking, "what is the fastest air craft?"
 Well, the X-43A is the answer. Reachiing a max speed of **Mach 9.6**! These are the facts about the X-43A's appearance:
 
-  - To begin with, 
+  - To begin with, blah blah blah
   - Second, 
   - Third, 
 
