@@ -25,7 +25,7 @@ role: Huge fan of aviation and military equipment
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: CTA
-    url: 
+    url:
 
 # Short bio (displayed in user profile at end of posts)
 bio: I am 8 years old and I want to be an engineer/scientist in the future.
@@ -57,6 +57,7 @@ highlight_name: true
 website: ""
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include
-distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops
-self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+My name is Kezhen Albert Qing. I am 8 years old now. I like to
+read and I like to make things. I am particularly interested in
+military equipment and here is my journal of what I learn from
+reading and researching.
