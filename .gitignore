@@ -77,3 +77,6 @@ Desktop.ini
 npm-debug.log*
 
 go.*
+
+*.lock
+**/package-lock.json

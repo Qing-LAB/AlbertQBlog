@@ -21,6 +21,8 @@ sections:
       filters:
         folders:
           - blog
+      sort_by: 'Date'
+      sort_ascending: true
     design:
       spacing:
         padding: ['3rem', 0, '6rem', 0]

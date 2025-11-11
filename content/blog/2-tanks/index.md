@@ -1,7 +1,7 @@
 ---
 title: Tanks
 summary: for tanks
-date: 2025-11-08
+date: 2025-11-09
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
@@ -13,6 +13,8 @@ authors:
 
 tags:
   - Military tank
+  - M1A2 tank
 ---
+
 
 blah blah
