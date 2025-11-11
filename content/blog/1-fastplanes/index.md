@@ -22,15 +22,17 @@ tags:
 ## The X-43A
 
 You might be asking, "what is the fastest air craft?"
-Well, the X-43A is the answer. Reachiing a max speed of **Mach 9.6**! These are the facts about the X-43A's appearance:
 
-  - To begin with, blah blah blah
-  - Second, 
-  - Third, 
+Well, the X-43A is the answer. Reaching a max speed of **Mach 9.6**! These are the facts about the X-43A's appearance:
+
+  - To begin with, the X-43A'shape looks more like a square from the top and a triangle on the side. this **aerodynamic** shape allows the plane to cut through the air and fly faster.
+  - Second, the fuselage is also made of a special material that can stay solid in burning tempetures. Nobody knows for sure what the material is all of it is highly classified and only government people and NASA workers know.
+  - Third, the X-43A uses supersonic combustion ramjet engines. This allows the plane to fly.                                                                                                                                      
 
 ## Other fast planes
-
+Now, this stuff is about fast planes in the 1900s. One fast plane is the SO-9000 Trident. It is powered by 2 jet engines and 2 rocket engines.
 
 ## Stay tuned!
+here is a jet engine design: ![alt engine design](/images/jet-engine-design.jpg)
 
-
+here is another one: {{< figure src="/images/jet-engine-design2.jpg" title="engine cross section" width="200" >}}
